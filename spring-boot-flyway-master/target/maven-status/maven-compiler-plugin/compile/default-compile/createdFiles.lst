@@ -1,0 +1,4 @@
+com\auth0\samples\Customer.class
+com\auth0\samples\CustomerRepository.class
+com\auth0\samples\CustomerController.class
+com\auth0\samples\SpringBootFlywayApplication.class
